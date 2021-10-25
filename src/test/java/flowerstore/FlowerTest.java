@@ -35,7 +35,7 @@ class FlowerTest {
 
     @org.junit.jupiter.api.Test
     void getPrice() {
-        assertEquals(101, flower.getPrice());
+        assertEquals(100, flower.getPrice());
     }
 
     @org.junit.jupiter.api.Test
